@@ -27,19 +27,16 @@
                                             <th>Duración</th>
                                             <th>Fecha de Estreno</th>
                                             <th>Formato</th>
-                                            <th>Perrin</th>
-                                             <th>Perrin</th>
+                                            <th>CSS grade</th>
                                         </tr>
                                     </thead>
                                     <tbody>
-
                                         <tr class="odd gradeX">
                                             <td>Trident</td>
                                             <td>Internet Explorer 4.0</td>
                                             <td>Win 95+</td>
                                             <td class="center">4</td>
                                             <td class="center">X</td>
-                                            <td class="center">4</td>
                                         </tr>
                                         <tr class="even gradeC">
                                             <td>Trident</td>
