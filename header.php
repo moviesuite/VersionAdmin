@@ -40,7 +40,7 @@ font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="login.php" class="b
                 
                     
                     <li>
-                        <a  href="index.php"><i class="fa fa-user fa-3x"></i>Usuarios</a>
+                        <a  href="mostrarperfil.php"><i class="fa fa-user fa-3x"></i>Usuarios</a>
                     </li>
                       <li>
                         <a  href="mostrarpeliculas.php"><i class="fa fa-desktop fa-3x"></i> Peliculas</a>
@@ -55,7 +55,7 @@ font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="login.php" class="b
                         <a  href="table.php"><i class="fa fa-table fa-3x"></i> Table Examples</a>
                     </li>
                     <li  >
-                        <a  href="form.php"><i class="fa fa-edit fa-3x"></i> Forms </a>
+                        <a  href="elimusuario.php"><i class="fa fa-edit fa-3x"></i> Forms </a>
                     </li>               
                     <li  >
                         <a   href="login.php"><i class="fa fa-bolt fa-3x"></i> Login</a>
